@@ -1,0 +1,6 @@
+.description__block {
+    display: flex;
+    flex-direction: column;
+    padding: 49px 38px 50px 41px;
+    box-sizing: content-box;
+}

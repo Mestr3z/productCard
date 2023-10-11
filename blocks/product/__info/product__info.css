@@ -1,0 +1,5 @@
+.product__info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

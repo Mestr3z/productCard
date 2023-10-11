@@ -1,0 +1,5 @@
+.question__remaining-questions_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

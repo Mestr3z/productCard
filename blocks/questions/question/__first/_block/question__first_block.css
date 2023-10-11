@@ -1,0 +1,6 @@
+.question__first_block {
+    display: flex;
+    flex-direction: row;
+    padding: 39px 138px 37px 40px;
+    cursor: pointer;
+}

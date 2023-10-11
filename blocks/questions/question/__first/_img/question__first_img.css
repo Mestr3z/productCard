@@ -1,0 +1,9 @@
+.question__first_img {
+    position: absolute;
+    width: 18px;
+    height: 21px;
+    top: 45px;
+    right: 29px;
+    cursor: pointer;
+
+}

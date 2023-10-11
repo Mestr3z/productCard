@@ -1,0 +1,12 @@
+.text__black {
+    margin: 0;
+    padding-top:11px;
+    padding-bottom:10px;
+    text-align: center;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

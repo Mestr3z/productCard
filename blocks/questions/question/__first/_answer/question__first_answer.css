@@ -1,0 +1,12 @@
+.question__first_answer {
+    max-width: 748px;
+    margin: 0;
+    padding-right: 47px;
+    padding-bottom: 39px;
+    padding-left: 39px;
+    color: #666;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}

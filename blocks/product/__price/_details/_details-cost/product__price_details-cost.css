@@ -1,0 +1,10 @@
+.product__price_details-cost {
+    margin: 0;
+    color: #000;
+    font-family: Roboto;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    margin-right:6px;
+    white-space: nowrap;
+}

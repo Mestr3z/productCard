@@ -1,0 +1,7 @@
+.question {
+    display: flex;
+    position: relative;
+    max-width: 834px;
+    background-color: white;
+    box-sizing: border-box;
+}

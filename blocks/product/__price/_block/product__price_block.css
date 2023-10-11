@@ -1,0 +1,4 @@
+.product__price_block {
+    display: flex;
+    flex-direction: row;
+}

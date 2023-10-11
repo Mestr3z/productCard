@@ -1,0 +1,10 @@
+.question__remaining-questions {
+    max-width: 360px;
+    box-sizing: border-box;
+    float:right;
+    margin-left: 20px;
+    margin-left: 0;
+    background-color: white;
+    padding:49px 38px 53px 41px;
+    margin-left: 26px;
+}
